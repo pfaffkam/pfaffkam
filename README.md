@@ -22,6 +22,5 @@ I'm Kamil, a passionate DevOps Engineer with a knack for crafting seamless and e
 ## :bar_chart: Github Stats:
 ![](https://raw.githubusercontent.com/pfaffkam/pfaffkam/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/pfaffkam/pfaffkam/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/pfaffkam/pfaffkam/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/pfaffkam/pfaffkam/master/generated/languages.svg#gh-light-mode-only)
